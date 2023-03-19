@@ -1,5 +1,5 @@
 displayName = 'instance-20230316-1611'
-compartmentId = 'ocid1.tenancy.oc1..aaaaaaaabzepemhr6cqjswpbjud6f4exzrjntlhav3dxcfv4wmwdqouqs7wa'
+compartmentId = 'ocid1.user.oc1..aaaaaaaagbgvtsxbatxhtrmqjugyp7xypn42xjkxgju7br3iosfufwuog7ka'
 availabilityDomain = "PakS:UK-LONDON-1-AD-3"
 imageId = "ocid1.image.oc1.uk-london-1.aaaaaaaat3lzhmmq3qlvichfxnzcoekciestjyojmjny74gkd3sm5ny6whiq"
 subnetId = 'ocid1.subnet.oc1.uk-london-1.aaaaaaaa3h4uuqzdqx5ikvpleixhddblhi2vr2xfnvy6ptkwdzfpa2hs4izq'
